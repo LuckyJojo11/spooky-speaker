@@ -21,6 +21,51 @@
         "es": "[unsupported]"
       },
       "file": "sounds/evil-laugh-89423.mp3"
+    },
+    {
+      "id": "evil-laugh-49831.mp3",
+      "name": {
+        "en": "Evil Laugh 1",
+        "de": "Böses Lachen 1",
+        "es": "[unsupported]"
+      },
+      "file": "sounds/evil-laugh-49831.mp3"
+    },
+    {
+      "id": "evil-laugh-47891.mp3",
+      "name": {
+        "en": "Evil Laugh 1",
+        "de": "Böses Lachen 1",
+        "es": "[unsupported]"
+      },
+      "file": "sounds/evil-laugh-47891.mp3"
+    },
+    {
+      "id": "evil-demonic-laugh-6925.mp3",
+      "name": {
+        "en": "Evil Laugh 1",
+        "de": "Böses Lachen 1",
+        "es": "[unsupported]"
+      },
+      "file": "sounds/evil-demonic-laugh-6925.mp3"
+    },
+    {
+      "id": "evil-laugh-with-reverb-423668.mp3",
+      "name": {
+        "en": "Evil Laugh 1",
+        "de": "Böses Lachen 1",
+        "es": "[unsupported]"
+      },
+      "file": "sounds/evil-laugh-with-reverb-423668.mp3"
+    },
+    {
+      "id": "evil-laugh-3-431486.mp3",
+      "name": {
+        "en": "Evil Laugh 1",
+        "de": "Böses Lachen 1",
+        "es": "[unsupported]"
+      },
+      "file": "sounds/evil-laugh-3-431486.mp3"
     }
   ]
 }
