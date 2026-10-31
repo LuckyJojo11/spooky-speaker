@@ -1,0 +1,25 @@
+{
+  "id": "haunted-house-001",
+  "version": "1.0.0",
+  "name": {
+    "en": "Haunted House",
+    "de": "Spukhaus",
+    "es": "Casa embrujada"
+  },
+  "description": {
+    "en": "Creaks and creepy whispers.",
+    "de": "Knarren und gruseliges Flüstern.",
+    "es": "Chirridos y susurros espeluznantes."
+  },
+  "sounds": [
+    {
+      "id": "door-creak-01",
+      "name": {
+        "en": "Door Creak",
+        "de": "Türknarren",
+        "es": "Chirrido de puerta"
+      },
+      "file": "sounds/door-creak.mp3"
+    }
+  ]
+}
