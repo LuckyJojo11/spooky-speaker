@@ -1,1 +1,107 @@
 
+{
+  "id": "laughing-pack",
+  "version": "1.0.0",
+  "name": {
+    "en": "Evil Laughing",
+    "de": "Böses Lachen",
+    "es": "[unsupported]"
+  },
+  "description": {
+    "en": "Creaks and creepy whispers.",
+    "de": "Knarren und gruseliges Flüstern.",
+    "es": "[unsupported]"
+  },
+  "sounds": [
+    {
+      "id": "evil-laugh-89423.mp3",
+      "name": {
+        "en": "Evil Laugh 1",
+        "de": "Böses Lachen 1",
+        "es": "[unsupported]"
+      },
+      "file": "sounds/evil-laugh-89423.mp3"
+    },
+    {
+      "id": "evil-laugh-89423.mp3",
+      "name": {
+        "en": "Evil Laugh 1",
+        "de": "Böses Lachen 1",
+        "es": "[unsupported]"
+      },
+      "file": "sounds/evil-laugh-89423.mp3"
+    },
+    {
+      "id": "evil-laugh-89423.mp3",
+      "name": {
+        "en": "Evil Laugh 1",
+        "de": "Böses Lachen 1",
+        "es": "[unsupported]"
+      },
+      "file": "sounds/evil-laugh-89423.mp3"
+    },
+    {
+      "id": "evil-laugh-89423.mp3",
+      "name": {
+        "en": "Evil Laugh 1",
+        "de": "Böses Lachen 1",
+        "es": "[unsupported]"
+      },
+      "file": "sounds/evil-laugh-89423.mp3"
+    },
+    {
+      "id": "evil-laugh-89423.mp3",
+      "name": {
+        "en": "Evil Laugh 1",
+        "de": "Böses Lachen 1",
+        "es": "[unsupported]"
+      },
+      "file": "sounds/evil-laugh-89423.mp3"
+    },
+    {
+      "id": "evil-laugh-89423.mp3",
+      "name": {
+        "en": "Evil Laugh 1",
+        "de": "Böses Lachen 1",
+        "es": "[unsupported]"
+      },
+      "file": "sounds/evil-laugh-89423.mp3"
+    },
+    {
+      "id": "evil-laugh-89423.mp3",
+      "name": {
+        "en": "Evil Laugh 1",
+        "de": "Böses Lachen 1",
+        "es": "[unsupported]"
+      },
+      "file": "sounds/evil-laugh-89423.mp3"
+    },
+    {
+      "id": "evil-laugh-89423.mp3",
+      "name": {
+        "en": "Evil Laugh 1",
+        "de": "Böses Lachen 1",
+        "es": "[unsupported]"
+      },
+      "file": "sounds/evil-laugh-89423.mp3"
+    },
+    {
+      "id": "evil-laugh-89423.mp3",
+      "name": {
+        "en": "Evil Laugh 1",
+        "de": "Böses Lachen 1",
+        "es": "[unsupported]"
+      },
+      "file": "sounds/evil-laugh-89423.mp3"
+    },
+    {
+      "id": "evil-laugh-89423.mp3",
+      "name": {
+        "en": "Evil Laugh 1",
+        "de": "Böses Lachen 1",
+        "es": "[unsupported]"
+      },
+      "file": "sounds/evil-laugh-89423.mp3"
+    }
+  ]
+}
